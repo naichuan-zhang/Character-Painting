@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40be39c3-7c18-4417-b4fa-603ba6bf8a4a" name="Default Changelist" comment="" />
+    <list default="true" id="40be39c3-7c18-4417-b4fa-603ba6bf8a4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_img/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_img/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/loding.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/show_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/window.py" beforeDir="false" afterPath="$PROJECT_DIR$/window.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Setup Script" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -35,21 +44,47 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Anaconda3/Scripts/pyrcc5.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/input_img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyCharmProjects\character_painting\input_img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\PyCharmProjects\character_painting" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.show_window (1)">
+    <configuration name="show_window (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="character_painting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/show_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="show_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="character_painting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +98,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\PyCharmProjects\character_painting\show.py" />
+      <option name="SCRIPT_NAME" value="F:\PyCharmProjects\character_painting\show_window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.show_window (1)" />
         <item itemvalue="Python.show_window" />
       </list>
     </recent_temporary>
@@ -101,18 +137,36 @@
       <option name="presentableId" value="Default" />
       <updated>1580410364695</updated>
       <workItem from="1580410365896" duration="6701000" />
-      <workItem from="1580464970471" duration="674000" />
+      <workItem from="1580464970471" duration="2886000" />
+      <workItem from="1580484885396" duration="2481000" />
+      <workItem from="1580487423762" duration="1147000" />
     </task>
+    <task id="LOCAL-00001" summary="updated images">
+      <created>1580465859370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580465859371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated images" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="240" width="460" height="487" key="#com.intellij.tools.ToolEditorDialog" timestamp="1580415592151">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="676" y="240" width="460" height="487" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1580415592151" />
+    <state x="393" y="26" key="CommitChangelistDialog2" timestamp="1580465856942">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="393" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1580465856942" />
     <state x="548" y="260" key="FileChooserDialogImpl" timestamp="1580415567043">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -125,32 +179,63 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="598" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1580417270635" />
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1580465779443">
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1580488518405">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580465779443" />
-    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1580465779442">
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580488518405" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1580488518405">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580465779442" />
-    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1580465779442">
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580488518405" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1580488518405">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580465779442" />
-    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1580465779442">
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580488518405" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1580488518405">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580465779442" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580488518405" />
+    <state width="1493" height="117" key="GridCell.Tab.1.bottom" timestamp="1580488336550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="117" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580488336550" />
+    <state width="1493" height="117" key="GridCell.Tab.1.center" timestamp="1580488336550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="117" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1580488336550" />
+    <state width="1493" height="117" key="GridCell.Tab.1.left" timestamp="1580488336550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="117" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1580488336550" />
+    <state width="1493" height="117" key="GridCell.Tab.1.right" timestamp="1580488336550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="117" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1580488336550" />
     <state x="555" y="5" key="SettingsEditor" timestamp="1580415595242">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="555" y="5" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580415595242" />
-    <state x="465" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1580465023660">
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1580465861993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="255" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580465023660" />
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1580465861993" />
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1580487424749">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580487424749" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/character_painting$show_window.coverage" NAME="show_window Coverage Results" MODIFIED="1580465779385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/character_painting$show_window.coverage" NAME="show_window Coverage Results" MODIFIED="1580466476781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/character_painting$show_window__1_.coverage" NAME="show_window (1) Coverage Results" MODIFIED="1580488518405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
   </component>
 </project>

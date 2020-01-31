@@ -60,10 +60,10 @@ class Ui_MainWindow(object):
         self.export_img.setAlignment(QtCore.Qt.AlignCenter)
         self.export_img.setObjectName("export_img")
 
-        self.loding = QtWidgets.QLabel(self.centralwidget)
-        self.loding.setGeometry(QtCore.QRect(550, 250, 100, 100))
-        self.loding.setText("")
-        self.loding.setObjectName("loding")
+        self.loading = QtWidgets.QLabel(self.centralwidget)
+        self.loading.setGeometry(QtCore.QRect(550, 250, 100, 100))
+        self.loading.setText("")
+        self.loading.setObjectName("loading")
         MainWindow.setCentralWidget(self.centralwidget)
 
         self.retranslateUi(MainWindow)
@@ -76,5 +76,6 @@ class Ui_MainWindow(object):
         self.comboBox.setItemText(0, _translate("MainWindow", "清晰"))
         self.comboBox.setItemText(1, _translate("MainWindow", "一般"))
         self.comboBox.setItemText(2, _translate("MainWindow", "字符"))
+
 
 import img_qc_rc
